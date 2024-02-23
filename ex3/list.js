@@ -25,7 +25,7 @@ function addTodo() {
         };
         list.appendChild(entry);
         
-        // Reset the input fields
+    
         document.getElementById('todo-name').value = '';
         document.getElementById('todo-content').value = '';
     } else {
