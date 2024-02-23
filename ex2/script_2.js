@@ -9,5 +9,4 @@ function updateStyles() {
     textDisplay.style.fontFamily = fontStyle;
 }
 
-// Set initial styles
 updateStyles();
