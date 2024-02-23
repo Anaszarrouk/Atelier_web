@@ -1,5 +1,4 @@
 .processor {
-    /* Add your styles here */
     display: flex;
     align-items: center;
     background-color: #f5f5f5;
@@ -8,7 +7,6 @@
 }
 
 #textDisplay {
-    /* Add your styles here */
     margin-right: 10px;
     padding: 10px;
     background-color: #dff0d8;
